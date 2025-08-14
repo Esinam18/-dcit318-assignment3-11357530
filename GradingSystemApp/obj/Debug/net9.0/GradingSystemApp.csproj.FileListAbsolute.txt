@@ -1,0 +1,15 @@
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\bin\Debug\net9.0\GradingSystemApp.exe
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\bin\Debug\net9.0\GradingSystemApp.deps.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\bin\Debug\net9.0\GradingSystemApp.runtimeconfig.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\bin\Debug\net9.0\GradingSystemApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\bin\Debug\net9.0\GradingSystemApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.AssemblyInfoInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.AssemblyInfo.cs
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.sourcelink.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\refint\GradingSystemApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\GradingSystemApp.genruntimeconfig.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\GradingSystemApp\obj\Debug\net9.0\ref\GradingSystemApp.dll

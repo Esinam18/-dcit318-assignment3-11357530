@@ -1,0 +1,15 @@
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.exe
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.deps.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.runtimeconfig.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\bin\Debug\net9.0\WarehouseInventorySystem.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.AssemblyInfoInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.AssemblyInfo.cs
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.sourcelink.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\refint\WarehouseInventorySystem.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\WarehouseInventorySystem.genruntimeconfig.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\WarehouseInventorySystem\obj\Debug\net9.0\ref\WarehouseInventorySystem.dll

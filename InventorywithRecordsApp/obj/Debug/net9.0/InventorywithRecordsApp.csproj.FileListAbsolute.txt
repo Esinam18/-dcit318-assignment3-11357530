@@ -1,0 +1,15 @@
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\bin\Debug\net9.0\InventorywithRecordsApp.exe
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\bin\Debug\net9.0\InventorywithRecordsApp.deps.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\bin\Debug\net9.0\InventorywithRecordsApp.runtimeconfig.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\bin\Debug\net9.0\InventorywithRecordsApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\bin\Debug\net9.0\InventorywithRecordsApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.AssemblyInfoInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.AssemblyInfo.cs
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.sourcelink.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\refint\InventorywithRecordsApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\InventorywithRecordsApp.genruntimeconfig.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\InventorywithRecordsApp\obj\Debug\net9.0\ref\InventorywithRecordsApp.dll

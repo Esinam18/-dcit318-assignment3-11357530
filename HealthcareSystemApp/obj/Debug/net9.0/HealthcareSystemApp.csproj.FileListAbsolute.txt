@@ -1,0 +1,15 @@
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.exe
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.deps.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.runtimeconfig.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\bin\Debug\net9.0\HealthcareSystemApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.AssemblyInfoInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.AssemblyInfo.cs
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.sourcelink.json
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\refint\HealthcareSystemApp.dll
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.pdb
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\HealthcareSystemApp.genruntimeconfig.cache
+C:\Users\CHRIS IT SOLUTION\OneDrive\Desktop\-dcit318-assignment3-11357530\HealthcareSystemApp\obj\Debug\net9.0\ref\HealthcareSystemApp.dll
